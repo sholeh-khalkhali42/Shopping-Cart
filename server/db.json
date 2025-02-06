@@ -1,0 +1,149 @@
+{
+    "stikers": [
+      {
+        "id": "100",
+        "title": "Modern Chair",
+        "price": 1000,
+        "description": "The best shopping experience with our modern chair.",
+        "sticker": "1.jpeg",
+        "category": "Furniture",
+        "stock": 50,
+        "rating": 4.5,
+        "reviews": [
+          {
+            "user": "Alice",
+            "comment": "Very comfortable and stylish!",
+            "rating": 5
+          },
+          {
+            "user": "Bob",
+            "comment": "Good value for money.",
+            "rating": 4
+          }
+        ]
+      },
+      {
+        "id": "200",
+        "title": "Beautiful Vase",
+        "price": 2000,
+        "description": "Enhance your decor with this beautiful vase.",
+        "sticker": "2.jpeg",
+        "category": "Home Decor",
+        "stock": 30,
+        "rating": 4.7,
+        "reviews": [
+          {
+            "user": "Charlie",
+            "comment": "Looks great on my table!",
+            "rating": 5
+          }
+        ]
+      },
+      {
+        "id": "300",
+        "title": "Elegant Lamp",
+        "price": 1500,
+        "description": "An elegant lamp to brighten your space.",
+        "sticker": "3.jpeg",
+        "category": "Lighting",
+        "stock": 20,
+        "rating": 4.8,
+        "reviews": []
+      },
+      {
+        "id": "400",
+        "title": "Modern Sofa",
+        "price": 3000,
+        "description": "A stylish modern sofa for your living room.",
+        "sticker": "4.jpg",
+        "category": "Furniture",
+        "stock": 15,
+        "rating": 4.6,
+        "reviews": [
+          {
+            "user": "David",
+            "comment": "Super comfy and looks amazing!",
+            "rating": 5
+          }
+        ]
+      },
+      {
+        "id": "500",
+        "title": "Beautiful Wall Art",
+        "price": 2500,
+        "description": "Add a touch of elegance with this wall art.",
+        "sticker": "5.jpg",
+        "category": "Art",
+        "stock": 25,
+        "rating": 4.9,
+        "reviews": [
+          {
+            "user": "Eve",
+            "comment": "Absolutely love this piece!",
+            "rating": 5
+          }
+        ]
+      },
+      {
+        "id": "600",
+        "title": "Stylish Coffee Table",
+        "price": 1200,
+        "description": "A stylish coffee table for your living room.",
+        "sticker": "6.jpg",
+        "category": "Furniture",
+        "stock": 40,
+        "rating": 4.4,
+        "reviews": []
+      },
+      {
+        "id": "700",
+        "title": "Beautiful Throw Blanket",
+        "price": 800,
+        "description": "Stay cozy with this beautiful throw blanket.",
+        "sticker": "7.jpeg",
+        "category": "Textiles",
+        "stock": 60,
+        "rating": 4.3,
+        "reviews": []
+      },
+      {
+        "id": "800",
+        "title": "Modern Dining Table",
+        "price": 3500,
+        "description": "A modern dining table for family gatherings.",
+        "sticker": "8.jpg",
+        "category": "Furniture",
+        "stock": 10,
+        "rating": 4.5,
+        "reviews": [
+          {
+            "user": "Frank",
+            "comment": "Perfect for our family dinners!",
+            "rating": 5
+          }
+        ]
+      },
+      {
+        "id": "900",
+        "title": "Beautiful Area Rug",
+        "price": 1500,
+        "description": "A beautiful area rug to complete your room.",
+        "sticker": "9.jpg",
+        "category": "Textiles",
+        "stock": 35,
+        "rating": 4.6,
+        "reviews": []
+      },
+      {
+        "id": "1000",
+        "title": "Elegant Dining Chair",
+        "price": 900,
+        "description": "An elegant dining chair for your dining room.",
+        "sticker": "10.jpg",
+        "category": "Furniture",
+        "stock": 45,
+        "rating": 4.7,
+        "reviews": []
+      }
+    ]
+  }
